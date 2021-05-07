@@ -77,13 +77,12 @@ def send(target):
 print(Fore.RED)
 
 print("""
+____ _  _ ____ ___  ____ _  _ ___  ____ ____ ____ ___  ____ 
+[__  |\/| [__  |__] |  | |\/| |__] |___ |__/ |__|   /  |___ 
+___] |  | ___] |__] |__| |  | |__] |___ |  \ |  |  /__ |___ 
 
-
-
-                                                                                                                                               
-
-                                                                                                                                                                       with :) Deniz                            
-
+                                                                                                                                           
+               with Deniz :)
                                                                                                                                                                                                    
     Qeyd : Biz Heç bir şeydən məsuliyyət daşımırıq.
 
