@@ -1,4 +1,1 @@
 # SMSBomberAze
-
-Installation
-
